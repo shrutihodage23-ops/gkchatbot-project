@@ -13,7 +13,7 @@ body {
 /* WELCOME PAGE */
 /* ===================== */
 .welcome-body {
-    background-image: url("images/welcome.jpg");
+    background-image: url('welcome.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
